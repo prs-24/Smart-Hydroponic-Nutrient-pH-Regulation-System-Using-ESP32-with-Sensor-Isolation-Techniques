@@ -1,0 +1,1 @@
+# Smart-Hydroponic-Nutrient-pH-Regulation-System-Using-ESP32-with-Sensor-Isolation-Techniques
