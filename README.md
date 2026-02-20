@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 ESP32 Hydroponic Control System
 
 An automated hydroponic nutrient monitoring and control system built using **ESP32**, **Arduino IDE**, and environmental sensors.  
@@ -125,7 +126,3 @@ ESP32-Hydroponic-Control-System/
 This project is licensed under the MIT License.
 
 ---
-
-## ⭐ Acknowledgment
-
-This project was developed as part of a smart agriculture / embedded systems initiative focusing on automation in hydroponic farming.
